@@ -1,6 +1,6 @@
 # Weather-Card-Using-HTML-CSS-and-Javascript
 
-**Title:** "Weather Card".
+**Title:** "Weather Card". 
 
 **Output Screen:** The output screen is where you can see the details of the weather will be displayed. Again, we can consider this in two parts as follows
 * **Question Output:**
