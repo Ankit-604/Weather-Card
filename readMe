@@ -1,8 +1,8 @@
-#Weather Card-Using-HTML-CSS-and-Javascript
+# Weather-Card-Using-HTML-CSS-and-Javascript
 
 **Title:** "Weather Card".
 
-**Output Screen:** The output screen is where you can see the details of weather will be displayed. Again, we can consider this in two parts as follows
+**Output Screen:** The output screen is where you can see the details of the weather will be displayed. Again, we can consider this in two parts as follows
 * **Question Output:**
 The user will give input as a State or Country name.
 * **Answer Output:**
