@@ -8,7 +8,6 @@ The user will give input as a State or Country name.
 * **Answer Output:**
 This will provide the weather of the desired State or Country.
 
-```
 ## File Structure
 ```
 index.html
